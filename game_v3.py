@@ -19,7 +19,7 @@ def score_game(random_predict) -> int:
     score = int(np.mean(count_ls))
     print(f"Ваш алгоритм угадывает число в среднем за: {score} попытки")
     
-    
+# Напишем функцию для нахождения числа   
 def game_core_v3(number: int = 1) -> int:
     """Функция угадывания числа
     Args:
