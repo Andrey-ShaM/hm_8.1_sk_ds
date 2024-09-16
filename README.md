@@ -2,17 +2,17 @@
 
 ## Оглавление
 
-[1. Описание проекта](README.md#Описание-проекта)  
-[2. Цель проекта](README.md#Цель-проекта)    
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)   
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)   
-[5. Результат](.README.md#Результат)   
-[6. Выводы](.README.md#Выводы)
+[1. Описание проекта](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Описание-проекта)  
+[2. Цель проекта](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Цель-проекта)    
+[3. Краткая информация о данных](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Этапы-работы-над-проектом)   
+[5. Результат](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Результат)   
+[6. Выводы](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Выводы)
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Оглавление)
 
 
 ### Цель проекта    
@@ -32,22 +32,22 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 На основании описанных в учебном материале программ game.py и game_v2.py был реализован алгоритм нахождения загаданного числа, основанный на сравнении со случайно генерируемым числом и последующем изменением границ для генератора случайных чисел
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Оглавление)
 
 
 ### Результаты:  
 Проверка работы алгоритма при помощи функции score_game показала, что для среднее число попыток для угадывания числа равно 8
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Оглавление)
 
 
 ### Выводы:  
 Поставленная задача выполнена
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/hm_8.1_sk_ds/blob/main/README.md#Оглавление)
